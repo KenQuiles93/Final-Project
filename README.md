@@ -2,7 +2,7 @@
 
 Python, a versatile and widely-used programming language, excels in a variety of domains, from web development to scientific computing. Its simplicity and readability make it an ideal tool for both beginners and seasoned programmers to implement mathematical solutions, including geometrical calculations and algebraic equations. This Python program is designed to showcase Python's capability to handle mathematical operations and its potential in educational contexts.
 
-The program is structured to offer users a command-line interface (CLI), allowing them to choose among calculating the area of a circle, computing the volume of a sphere, or solving quadratic equations. This user-friendly approach not only makes mathematical computations accessible but also demonstrates Python's adaptability in creating practical applications.
+The program is structured to offer users a command-line interface (CLI), allowing them to choose between calculating the area of a circle, computing the volume of a sphere, or solving quadratic equations. This user-friendly approach not only makes mathematical computations accessible but also demonstrates Python's adaptability in creating practical applications.
 
 ## Calculating the Area of a Circle
 
