@@ -1,3 +1,1 @@
-pytest
-numpy
-chemicals
+pytest == 8.0.0
